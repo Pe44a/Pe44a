@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Pe44a
 - 👀 I’m interested in web development 
-- 🌱 I’m currently going through The Odin Project 
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me , just mesage me on Github 
 
 <!---
