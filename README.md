@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Pe44a
+-  Hi, I’m @Pe44a
 - 👀 I’m interested in web development 
-- 📫 Check out my projects website: https://pe44a.github.io/personal-portfolio/
+- Check out my projects website: https://pe44a.github.io/personal-portfolio/
+- Reach me out here:https://x.com/Peteris__?t=XQm1ekBKQnNUHjhS5Dbh8A&s=09
 
 <!---
 Pe44a/Pe44a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
