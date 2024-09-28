@@ -1,5 +1,4 @@
--  Hi, I’m @Pe44a
-- 👀 I’m interested in web development 
+-  Hi, I’m Pe44a
 - Check out my projects website: https://pe44a.github.io/personal-portfolio/
 - Reach me out here:https://x.com/Peteris__?t=XQm1ekBKQnNUHjhS5Dbh8A&s=09
 
